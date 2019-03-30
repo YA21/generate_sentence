@@ -1,0 +1,2 @@
+- [ディープラーニングで文章を自動生成したい！ | Aidemy Blog](https://blog.aidemy.net/entry/2018/10/05/195404)
+- [図書カード：吾輩は猫である](https://www.aozora.gr.jp/cards/000148/card789.html)
